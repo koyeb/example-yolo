@@ -35,7 +35,7 @@ To use this repository, you need:
 
 The fastest way to deploy the YOLO object detection application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)]()
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=example-yolo&type=git&repository=koyeb%2Fexample-yolo&branch=main&builder=dockerfile&instance_type=gpu-nvidia-rtx-4000-sff-ada&env%5B%5D=&ports=8501%3Bhttp%3B%2F)
 
 Clicking on this button brings you to the Koyeb App creation page with the settings pre-configured to launch this application.
 
